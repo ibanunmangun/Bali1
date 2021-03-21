@@ -1,0 +1,32 @@
+var json_Point_Of_Interest_2 = {
+"type": "FeatureCollection",
+"name": "Point_Of_Interest_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OID_": "1", "Name": "Pura Uluwatu", "Keterangan": "point of interest", "X": 115.0849069000001, "Y": -8.8291432 }, "geometry": { "type": "Point", "coordinates": [ 115.084907, -8.829143 ] } },
+{ "type": "Feature", "properties": { "OID_": "2", "Name": "Pantai Pandawa", "Keterangan": "point of interest", "X": 115.1870679000001, "Y": -8.8452801999999338 }, "geometry": { "type": "Point", "coordinates": [ 115.187068, -8.84528 ] } },
+{ "type": "Feature", "properties": { "OID_": "3", "Name": "Garuda Wisnu Kencana", "Keterangan": "point of interest", "X": 115.1675986, "Y": -8.8104228 }, "geometry": { "type": "Point", "coordinates": [ 115.167599, -8.810423 ] } },
+{ "type": "Feature", "properties": { "OID_": "4", "Name": "Warung Nasi Ayam Ibu Oki", "Keterangan": "point of interest", "X": 115.2224944000001, "Y": -8.8054518 }, "geometry": { "type": "Point", "coordinates": [ 115.222494, -8.805452 ] } },
+{ "type": "Feature", "properties": { "OID_": "5", "Name": "Pantai Tanjung Benoa", "Keterangan": "point of interest", "X": 115.2226631000001, "Y": -8.7584196 }, "geometry": { "type": "Point", "coordinates": [ 115.222663, -8.75842 ] } },
+{ "type": "Feature", "properties": { "OID_": "6", "Name": "Pasar Sukowati", "Keterangan": "point of interest", "X": 115.2803416, "Y": -8.6046613999999408 }, "geometry": { "type": "Point", "coordinates": [ 115.280342, -8.604661 ] } },
+{ "type": "Feature", "properties": { "OID_": "7", "Name": "Tegallalang Rice Terrace", "Keterangan": "point of interest", "X": 115.2792569000001, "Y": -8.4340402999999355 }, "geometry": { "type": "Point", "coordinates": [ 115.279257, -8.43404 ] } },
+{ "type": "Feature", "properties": { "OID_": "8", "Name": "Sacred Monkey Forest Sanctuary", "Keterangan": "point of interest", "X": 115.2585973, "Y": -8.5187511 }, "geometry": { "type": "Point", "coordinates": [ 115.258597, -8.518751 ] } },
+{ "type": "Feature", "properties": { "OID_": "9", "Name": "Pura Tanah Lot", "Keterangan": "point of interest", "X": 115.086807, "Y": -8.621213 }, "geometry": { "type": "Point", "coordinates": [ 115.086807, -8.621213 ] } },
+{ "type": "Feature", "properties": { "OID_": "10", "Name": "Masjid Al-Ihsan-Sanur", "Keterangan": "fasilitas umum", "X": 115.2606639489331, "Y": -8.6751212203396424 }, "geometry": { "type": "Point", "coordinates": [ 115.260664, -8.675121 ] } },
+{ "type": "Feature", "properties": { "OID_": "11", "Name": "RSU Dharma Yadnya", "Keterangan": "fasilitas umum", "X": 115.25160987923995, "Y": -8.6424064422285252 }, "geometry": { "type": "Point", "coordinates": [ 115.25161, -8.642406 ] } },
+{ "type": "Feature", "properties": { "OID_": "12", "Name": "RS Bali Mandara", "Keterangan": "fasilitas umum", "X": 115.24885678793376, "Y": -8.7038926572098649 }, "geometry": { "type": "Point", "coordinates": [ 115.248857, -8.703893 ] } },
+{ "type": "Feature", "properties": { "OID_": "13", "Name": "Denpasar Indonesian Christian Church", "Keterangan": "fasilitas umum", "X": 115.23663470799011, "Y": -8.6731875829714475 }, "geometry": { "type": "Point", "coordinates": [ 115.236635, -8.673188 ] } },
+{ "type": "Feature", "properties": { "OID_": "14", "Name": "Green Code Medical Assistance", "Keterangan": "fasilitas umum", "X": 115.13303041252151, "Y": -8.8307651242683978 }, "geometry": { "type": "Point", "coordinates": [ 115.13303, -8.830765 ] } },
+{ "type": "Feature", "properties": { "OID_": "15", "Name": "Rumah Sakit Umum Bali Jimbaran", "Keterangan": "fasilitas umum", "X": 115.17735106891159, "Y": -8.789776848271261 }, "geometry": { "type": "Point", "coordinates": [ 115.177351, -8.789777 ] } },
+{ "type": "Feature", "properties": { "OID_": "16", "Name": "Rumah Sakit Umum Surya Husadha Nusa Dua", "Keterangan": "fasilitas umum", "X": 115.21738236740239, "Y": -8.8041226594660813 }, "geometry": { "type": "Point", "coordinates": [ 115.217382, -8.804123 ] } },
+{ "type": "Feature", "properties": { "OID_": "17", "Name": "Pertamina Nusa Dua", "Keterangan": "fasilitas umum", "X": 115.21522905488838, "Y": -8.7934025003924745 }, "geometry": { "type": "Point", "coordinates": [ 115.215229, -8.793403 ] } },
+{ "type": "Feature", "properties": { "OID_": "18", "Name": "SPBU Pertamina 54.803.07", "Keterangan": "fasilitas umum", "X": 115.18823545424152, "Y": -8.7843684175540009 }, "geometry": { "type": "Point", "coordinates": [ 115.188235, -8.784368 ] } },
+{ "type": "Feature", "properties": { "OID_": "19", "Name": "SPBU Pertamina 54.803.16", "Keterangan": "fasilitas umum", "X": 115.16116872222634, "Y": -8.7978742898817615 }, "geometry": { "type": "Point", "coordinates": [ 115.161169, -8.797874 ] } },
+{ "type": "Feature", "properties": { "OID_": "20", "Name": "Apotek Jayamahe", "Keterangan": "fasilitas umum", "X": 115.16217224711495, "Y": -8.7959450530936518 }, "geometry": { "type": "Point", "coordinates": [ 115.162172, -8.795945 ] } },
+{ "type": "Feature", "properties": { "OID_": "21", "Name": "Apotek Assa Farma", "Keterangan": "fasilitas umum", "X": 115.12309238974925, "Y": -8.5888929065770245 }, "geometry": { "type": "Point", "coordinates": [ 115.123092, -8.588893 ] } },
+{ "type": "Feature", "properties": { "OID_": "22", "Name": "SPBU Pertamina 54.821.02", "Keterangan": "fasilitas umum", "X": 115.1538746385487, "Y": -8.5601742998859525 }, "geometry": { "type": "Point", "coordinates": [ 115.153875, -8.560174 ] } },
+{ "type": "Feature", "properties": { "OID_": "23", "Name": "SPBU Latu Abiansemal", "Keterangan": "fasilitas umum", "X": 115.21425676624258, "Y": -8.5444480558249634 }, "geometry": { "type": "Point", "coordinates": [ 115.214257, -8.544448 ] } },
+{ "type": "Feature", "properties": { "OID_": "24", "Name": "SPBU Pengosekan Ubud", "Keterangan": "fasilitas umum", "X": 115.26363594650388, "Y": -8.524256922133036 }, "geometry": { "type": "Point", "coordinates": [ 115.263636, -8.524257 ] } },
+{ "type": "Feature", "properties": { "OID_": "25", "Name": "Kimia Farma", "Keterangan": "fasilitas umum", "X": 115.26823540606578, "Y": -8.521862042243356 }, "geometry": { "type": "Point", "coordinates": [ 115.268235, -8.521862 ] } }
+]
+}
